@@ -1,4 +1,4 @@
-﻿# 🔰Powreshell + WPF XAML でGUIを作成してみる
+# 🔰Powreshell + WPF XAML でGUIを作成してみる
 
 ## 🔰概要
 
@@ -11,7 +11,7 @@ PowershellでWPF（Windows Presentation Foundation）をXAMLで使ってみた�
 
 というわけでやってみた。
 
-今回XAMLを生成するのにVisual Studio 2017を使用してます。xmlaを手書きできる気合の入ってる方。もしくは他のエディタでという人は一部読み飛ばして下さい。
+今回XAMLを生成するのにVisual Studio 2017を使用してます。XAMLを手書きできる気合の入ってる方。もしくは他のエディタでという人は一部読み飛ばして下さい。
 
 なんかもう素直にC#でいけば……と思わないことも無いのですが、Powershellでやりたいという熱い思いを大切にしたい。
 
